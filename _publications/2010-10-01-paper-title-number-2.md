@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Osteosynthesis implant developpement for the treatment of proximal and mid-diaphyseal humerus fractures : Clothilde project"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The Clothilde Project is a Franco-Swiss partnership between two universities and two companies. This project aims to minimize surgical risks by offering original and reliable devices for orthopaedic shoulder surgery. For this purpose, an osteosynthesis implant to treat proximal and diaphyseal traumatic fractures using metal additive manufacturing is proposed. This device consists of a distal intramedullary locked system combined with a proximal locking system providing great flexibility in bone fragments reconstruction. Specific tools have been developed to confirm the mechanical strength of this medical device. The surgical technique has been validated in anatomy laboratory by a group of surgeons. Five patents have been applied on the chosen solutions (implants and instumentations) which are currently being industrialised.'
+date: 2019-06-05
+venue: ''
+paperurl: 'https://theses.hal.science/tel-03548220'
+citation: 'Goyallon, Thibault'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The Clothilde Project is a Franco-Swiss partnership between two universities and two companies. This project aims to minimize surgical risks by offering original and reliable devices for orthopaedic shoulder surgery. For this purpose, an osteosynthesis implant to treat proximal and diaphyseal traumatic fractures using metal additive manufacturing is proposed. This device consists of a distal intramedullary locked system combined with a proximal locking system providing great flexibility in bone fragments reconstruction. Specific tools have been developed to confirm the mechanical strength of this medical device. The surgical technique has been validated in anatomy laboratory by a group of surgeons. Five patents have been applied on the chosen solutions (implants and instumentations) which are currently being industrialised
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download my thesis here](https://theses.hal.science/tel-03548220)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Keywords : Shoulder, Humerus, Fracture, Implant, Additive manufacturing, Clothilde 
