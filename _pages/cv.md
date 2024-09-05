@@ -9,51 +9,85 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Professional Experiences
+### Research Engineer and Research Project Coordinator
+**INRIA, Grenoble, France**  
+*2021 - 2024*  
+**PerfAnalytics Project** (ANR-20-STHP-0003 - National Research Agency funding €2M)  
+Developments in Markerless Motion Capture for human motion, applications in high-level elite sports:
+- Developed DL methods for accurate and automated multi-person shape estimation from multi-camera systems.
+- Ensured reproducibility of research code and high-performance computing (HPC).
+- Maintained SQL/Mongo Databases and front-end Apps.
+- Supervised master and PhD students.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Postdoctoral Researcher in Applied Mathematics
+**LJK, CNRS (UMR 5224), Grenoble, France**  
+*2019 - 2020*  
+Biomechanics and computer vision research on markerless motion tracking from multi-camera systems in Sport Climbing:
+- Developed methods for automatic segmentation of 3D human meshes and estimation of anthropometric data.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Doctoral Teaching Assistant
+**Savoie Mont Blanc University, Polytech Annecy-Chambéry, France**  
+*2016 - 2019*  
+192 hours of lectures, tutorials, and practical sessions:
+- Numerical methods and Python scripting language for engineers - Image analysis.
+- Continuum mechanics.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Doctoral Thesis
+**SYMME Laboratory, Annecy, France**  
+*2015 - 2019*  
+**Clothilde Project** (INTERREG V - Franco-Swiss Funding €1.4M). Osteosynthesis implant development for the treatment of proximal and mid-diaphyseal humerus fractures:
+- Developed a musculoskeletal model of the glenohumeral joint with post-processing in Python.
+- Created a wireless and real-time 3D position IMU sensor and post-processing (quaternions, filtering).
+- Designed a shoulder cadaveric testing bench (CompactRIO + FPGA).
+- Contributed to the development of osteosynthesis implants and associated instruments, resulting in 5 patents.
+
+### End-of-Studies Internship
+**French Alternative Energies and Atomic Energy Commission (CEA), Monts, France**  
+*2015*  
+Development of an assembly control system for pyrotechnic devices.
+
+### International Experience
+**SRM University, Chennai, India**  
+*2014*  
+3D Finite Element Analysis modeling of the human foot - Numerical analyses of soft tissues.
+
+## Degrees
+
+### Research and Higher Education Label
+**Grenoble Alpes University, Doctoral School SISEO ED N°489**  
+*2016 - 2018*  
+Grenoble, France  
+- Pedagogy, Didactics, and Communication.
+
+### Doctoral Studies
+**SISEO Doctoral School**  
+*2015 - 2018*  
+Annecy, France  
+- Python scripting language and Image correlation - SYMME Lab.
+- Multi-spectral image analysis - LISTIC Lab.
+- Research ethics.
+
+### Master Degree
+**Mechanics and System Design**  
+**École Polytechnique Universitaire of Tours, France**  
+*2011 - 2015*
+
+### Higher Technician Certificate
+**Mechanical and Industrial Automation**  
+**Lycée Grandmont, Tours, France**  
+*2009 - 2011*
+
+### Baccalaureate in Industrial Science and Technology
+**Electrical Engineering**  
+**Lycée François Rabelais, Chinon, France**  
+*2009*
+
+## Skills
+
+- **Python:** OpenCV, SciPy, Scikit, Pandas, NumPy, Trimesh, PyRender, TensorFlow, PyTorch, TorchVision, Dash Plotly
+- **Data Integrity:** Git, Docker (including GPU support: NVIDIA, NVCC, CUDA)
+- **Programming:** Bash, Linux servers, gcc/g++ compilation, Matlab, Arduino, LaTeX
+- **CAD and FEA:** SolidWorks, Catia, Abaqus, Ansys
+- **3D Mesh:** OpenGL, Maya, Blender, MeshLab
+- **Languages:** French (native), English (fluent)
