@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](files/CV_2024_Github.pdf)
+
 ## Professional Experiences
 ### Research Engineer and Research Project Coordinator
 **INRIA, Grenoble, France**  
