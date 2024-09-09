@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](files/CV_2024_Github.pdf)
+[Download](https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/files/CV_2024_Github.pdf)
 
 ## Professional Experiences
 ### Research Engineer and Research Project Coordinator
