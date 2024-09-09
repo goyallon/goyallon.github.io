@@ -5,8 +5,6 @@ permalink: /supervisions/
 author_profile: true
 ---
 
-## Supervisions
-
 ### 2023
 
 - **Hugo COMOTH**  
