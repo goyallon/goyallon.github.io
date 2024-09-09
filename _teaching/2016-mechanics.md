@@ -1,5 +1,5 @@
 ---
-title: "Doctoral Teaching Asistant in Continuum Mechanics 2016"
+title: "2016 - Doctoral Teaching Asistant in Continuum Mechanics"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2016-mechanics

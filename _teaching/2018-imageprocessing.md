@@ -1,5 +1,5 @@
 ---
-title: "Part-Time Lecturer Asistant In Image Processing/Python 2018"
+title: "2018 - Part-Time Lecturer Asistant In Image Processing/Python"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2018-imageprocessing

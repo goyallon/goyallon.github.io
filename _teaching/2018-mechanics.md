@@ -1,5 +1,5 @@
 ---
-title: "Part-Time Lecturer in Continuum Mechanics 2018"
+title: "2018 - Part-Time Lecturer in Continuum Mechanics"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2018-mechanics

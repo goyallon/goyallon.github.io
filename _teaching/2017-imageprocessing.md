@@ -1,5 +1,5 @@
 ---
-title: "Doctoral Teaching Asistant In Image Processing/Python 2017"
+title: "2017 - Doctoral Teaching Asistant In Image Processing/Python"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2017-imageprocessing
