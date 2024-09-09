@@ -16,7 +16,7 @@ Hello! I’m Thibault Goyallon, a Computer Vision Research Engineer based in Tor
     Your browser does not support the video tag.
   </video>
   <br>
-  <i>Segmented Human 3D Mesh Extraction from 2D keypoints.</i>
+  <i>Segmented Human 3D Mesh Extraction from 2D keypoints with 6 cameras.</i>
 </p>
 
 
