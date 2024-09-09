@@ -12,13 +12,12 @@ Hello! I’m Thibault Goyallon, a Computer Vision Research Engineer based in Tor
 
 <p align="center">
   <video width="500" autoplay controls>
-    <source src="/images/mosaic_squat.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/mosaic_squat.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
   <i>Segmented Human 3D mesh extraction from 2D keypoints.</i>
 </p>
-
 
 
 ## My Background and History
