@@ -22,7 +22,7 @@ Hello! I’m Thibault Goyallon, a Computer Vision Research Engineer based in Tor
 
 ## My Background and History
 
-I received my Ph.D in Mecatronics from the Grenoble Alpes University in 2019, my master in Mechanics and System Design from the École Polytechnique at the University of Tours in 2015, and my Bachelor's in Mechanical and Industrial Automation in 2011. For nearly five years, I have been engaged in computer vision research and deep learning development at [INRIA](https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes), working under the supervision of Lionel Reveret.
+I received my Ph.D in Mecatronics from the Grenoble Alpes University in 2019, my master in Mechanics and System Design from the École Polytechnique at the University of Tours in 2015, and my Bachelor's in Mechanical and Industrial Automation in 2011. For nearly five years, I have been engaged in computer vision research and deep learning development at [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes), working under the supervision of Lionel Reveret.
 
 
 
