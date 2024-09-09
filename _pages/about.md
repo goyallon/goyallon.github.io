@@ -11,12 +11,12 @@ redirect_from:
 Hello! I’m Thibault Goyallon, a Computer Vision Research Engineer based in Toronto, ON. I recently relocated here after spending 5 years at [INRIA Grenoble](https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes), where I developed high-performance algorithms and co-led projects in computer vision and deep learning.
 
 <p align="center">
-  <video width="500" autoplay controls>
+  <video width="700" autoplay controls>
     <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/mosaic_squat.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
-  <i>Segmented Human 3D mesh extraction from 2D keypoints.</i>
+  <i>Segmented Human 3D Mesh Extraction from 2D keypoints.</i>
 </p>
 
 
