@@ -26,7 +26,7 @@ I received my Ph.D in Mecatronics from the Grenoble Alpes University in 2019, my
 
 
 
-I received my Ph.D. at the [SYMME](https://www.univ-smb.fr/symme/en/) Mechatronics Laboratory, where I had the opportunity to work in the biomedical field and collaborated closely with surgeons and medical technology companies. Under the supervision of Pierre Vacher, Éric Vittecoq, and Christophe Déprés, I designed custom orthopedic implants using metal 3D printing technology, resulting in multiple patents aimed at minimizing the impact of surgery on surrounding tissues. [*"Development of an innovative implant for the treatment of shoulder fractures (proximal humerus and middle diaphysis)."*](https://theses.hal.science/tel-03548220)
+I received my Ph.D. at the [SYMME](https://www.univ-smb.fr/symme/en/) Mechatronics Laboratory, where I had the opportunity to work in the biomedical field and collaborated closely with surgeons and medical technology companies. Under the supervision of Pierre Vacher, Éric Vittecoq, and Christophe Déprés, I designed custom orthopedic implants using metal 3D printing technology as part of the Clothilde Project, resulting in multiple patents aimed at minimizing the impact of surgery on surrounding tissues. [*"Development of an innovative implant for the treatment of shoulder fractures (proximal humerus and middle diaphysis)."*](https://theses.hal.science/tel-03548220)
 
 
 <p align="center">
