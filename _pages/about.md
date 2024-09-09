@@ -37,7 +37,7 @@ I received my Ph.D. at the [SYMME](https://www.univ-smb.fr/symme/en/) Mechatroni
 
 I pursued a postdoctoral position at the [Jean Kuntzmann](https://www-ljk.imag.fr/?lang=en) Applied Mathematics Laboratory in the Variational Calculus, Geometry, and Image Team. My research addressed the limitations of 2D vision deep learning methods for biomechanical applications. I developed expertise in processing large image/video datasets, utilizing advanced deep learning frameworks, and creating  ML/DL algorithms for automated image processing. My work included markerless motion capture from video and dynamic analysis for rock climbing.
 
-In 2021, I began a Research Engineer position at INRIA, focusing on video analysis for elite sports performance evaluation within the PerfAnalytics Project, funded by the Agence Nationale de la Recherche (ANR) under grant number ANR-20-STHP-0003. My role involves developing and applying advanced video analysis techniques to improve the accuracy and effectiveness of performance assessments for French federations in climbing, wrestling, boxing, gymnastics, and BMX racing.
+In 2021, I began a Research Engineer position at INRIA, focusing on video analysis for elite sports performance evaluation within the [PerfAnalytics Project](https://github.com/perfanalytics), funded by the Agence Nationale de la Recherche (ANR) under grant number ANR-20-STHP-0003. My role involves developing and applying advanced video analysis techniques to improve the accuracy and effectiveness of performance assessments for French federations in climbing, wrestling, boxing, gymnastics, and BMX racing.
 
 
 <p align="center">
@@ -45,7 +45,5 @@ In 2021, I began a Research Engineer position at INRIA, focusing on video analys
   <br>
   <i>The PerfAnalytics Project.</i>
 </p>
-
-
 
 In addition to my expertise in computer vision and DL, I am passionate about open and reproducible science, film photography, and low-tech innovations. I am also an enthusiastic climber !
