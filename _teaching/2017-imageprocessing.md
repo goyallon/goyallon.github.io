@@ -1,9 +1,9 @@
 ---
-title: "Doctoral Teaching Asistant"
+title: "Doctoral Teaching Asistant In Image Processing/Python 2017"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2017-imageprocessing
-venue: "Savoie Mont Blanc University, Polyetch Annecy Chambéry"
+venue: "Savoie Mont Blanc University, Polytech Annecy Chambéry"
 date: 2017-09-01
 location: "Annecy, France"
 ---

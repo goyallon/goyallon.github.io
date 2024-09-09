@@ -1,9 +1,9 @@
 ---
-title: "Doctoral Teaching Asistant"
+title: "Part-Time Lecturer in Continuum Mechanics 2018"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2018-mechanics
-venue: "Savoie Mont Blanc University, Polyetch Annecy Chambéry"
+venue: "Savoie Mont Blanc University, Polytech Annecy Chambéry"
 date: 2018-09-01
 location: "Annecy, France"
 ---
