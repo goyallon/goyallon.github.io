@@ -82,8 +82,11 @@ analytics:
 author:
   name             : "Thibault Goyallon"
   avatar           : "profile.png"
-  bio              : "Research Engineer // Computer Vision // MLOps"
-  location         : "Toronto, ON"
+  bio    : |
+    Research Engineer
+    Computer Vision
+    MLOps
+  location         : "Toronto, ON"  
   employer         : INRIA
   pubmed           : 
   googlescholar    : 
