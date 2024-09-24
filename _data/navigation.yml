@@ -14,4 +14,7 @@ main:
   
   - title: "Supervisions"
     url: /supervisions/
+  
+  - title: "Portfolio"
+    url: /portfolio/
     
