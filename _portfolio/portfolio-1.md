@@ -55,5 +55,5 @@ collection: portfolio
     Your browser does not support the video tag.
   </video>
   <br>
-  <i> Hold tracking for speed climbing with YoLo.</i>
+  <i> Hold detection for speed climbing with YoLo.</i>
 </p>
