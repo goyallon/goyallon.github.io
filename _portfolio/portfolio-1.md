@@ -1,7 +1,41 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Some examples of Mesh recovering from RGB Cameras"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<p align="center">
+  <video width="700" autoplay controls>
+    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/smplx.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i> Walking Subject - SMPL-X Human 3D Mesh Extraction from 2D keypoints with 9 cameras + MoCap + Forces Plateform.</i>
+</p>
+
+<p align="center">
+  <video width="700" autoplay controls>
+    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/smpl.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i> Shadow Boxing - SMPL from 2D keypoints with 12 cameras.</i>
+</p>
+
+<p align="center">
+  <video width="700" autoplay controls>
+    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/tracking.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i> Boxe Ring Generalship Multiperson Tracking from Monocular RGB Video.</i>
+</p>
+
+<p align="center">
+  <video width="700" autoplay controls>
+    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/tracking2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i> Human Multiperson Tracking on Boxing elite athletes with 12 cameras.</i>
+</p>
