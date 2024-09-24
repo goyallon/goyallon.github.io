@@ -37,7 +37,7 @@ collection: portfolio
     Your browser does not support the video tag.
   </video>
   <br>
-  <i> Boxe Ring Generalship Multiperson Tracking from Monocular RGB Video.</i>
+  <i> Boxing Ring Generalship + Multiperson Tracking from Monocular RGB Video.</i>
 </p>
 
 <p align="center">
