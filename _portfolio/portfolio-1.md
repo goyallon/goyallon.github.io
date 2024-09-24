@@ -1,6 +1,6 @@
 ---
-title: "Some examples of Mesh recovering from RGB Cameras"
-excerpt: ""
+title: "Pose Estimation, Tracking and Mesh recovery from RGB cameras"
+excerpt: "Some examples of my latest work on Human Mesh Recovery"
 collection: portfolio
 ---
 
