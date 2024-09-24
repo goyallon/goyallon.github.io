@@ -50,7 +50,7 @@ collection: portfolio
 </p>
 
 <p align="center">
-  <video width="700" autoplay controls>
+  <video width="350" autoplay controls>
     <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/yolo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
