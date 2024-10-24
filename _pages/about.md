@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Thibault Goyallon, a Computer Vision Research Engineer based in Toronto, ON. I recently relocated here after spending 5 years at [INRIA Grenoble](https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes), where I developed high-performance algorithms and co-led projects in computer vision and deep learning.
+Hello! I’m Thibault Goyallon, I work as a Computer Vision Researcher at [SEED](https://www.ea.com/seed), Electronic Arts, where I focus on advancing innovative technologies in the gaming industry. I relocated here after spending 5 years at [INRIA Grenoble](https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes), where I developed high-performance algorithms and co-led projects in computer vision and deep learning.
 
 <p align="center">
   <video width="700" autoplay controls>
