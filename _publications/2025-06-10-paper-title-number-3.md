@@ -1,0 +1,13 @@
+---
+title: "Monocular markerless position tracking of elite amateur boxing fighters in real combat situation"
+collection: publications
+permalink: /publication/2025-06-10-paper-title-number-3
+excerpt: 'The Clothilde Project is a Franco-Swiss partnership between two universities and two companies. This project aims to minimize surgical risks by offering original and reliable devices for orthopaedic shoulder surgery. For this purpose, an osteosynthesis implant to treat proximal and diaphyseal traumatic fractures using metal additive manufacturing is proposed. This device consists of a distal intramedullary locked system combined with a proximal locking system providing great flexibility in bone fragments reconstruction. Specific tools have been developed to confirm the mechanical strength of this medical device. The surgical technique has been validated in anatomy laboratory by a group of surgeons. Five patents have been applied on the chosen solutions (implants and instumentations) which are currently being industrialised.'
+date: 2025-06-10
+venue: 'Journal of Sport Sciences'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40495335/'
+citation: 'Schortgen A, Goyallon T, Saulière G, Muller A, Revéret L.'
+---
+Markerless video analysis represents an opportunity for conducting efficient in-situ motion analysis of athletes during competitions. From monocular video data, we propose a robust end-to-end method to automatically capture the 2D trajectory of athletes' position on planar ground, even in highly occluded contexts. A tracking-by-detection algorithm is first applied on a short sequence to build a specific contextual dataset ('self-supervision'). These data are subsequently used to train a specific person detector. Afterwards, body anatomical features in image coordinates are identified using human pose estimator. Athletes position is extracted as the midpoint between the feet and converted to metric units through homography. The accuracy of our monocular algorithm was evaluated by comparison with a position trajectories calculated from markerless reconstruction of 3D poses using 11 accurately synchronized and calibrated cameras as reference. The average error was 0.3 m over about 130,000 frames at 50 fps. The trajectories of the monocular method and the multiple views reference show an average correlation above 0.9. The robustness of the monocular method was tested in real competition of boxing combats for 18 rounds involving 22 elite fighters. These results open perspectives to provide performance indicators such as ring generalship to the coaching staff with minimal setup.
+
+Keywords : Multiple athlete tracking, boxing performance, computer vision, self-supervised detection, trajectory estimation, video analysis
