@@ -12,6 +12,12 @@ redirect_from:
 [Download](https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/files/CV_2024_Github.pdf)
 
 ## Professional Experiences
+
+### Computer Vision Researcher
+**Electronic Arts - SEED, Toronto, Canada**  
+*Since 2024*  
+
+
 ### Research Engineer and Research Project Coordinator
 **INRIA, Grenoble, France**  
 *2021 - 2024*  
