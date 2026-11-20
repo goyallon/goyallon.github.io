@@ -18,3 +18,11 @@ FaceRiff generates complete 3D facial assets from text, including mesh, lighting
 </figure>
 
 [Read the paper](/publication/2026-11-16-faceriff) · [Original LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7528884188633120769/)
+
+## Video
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube-nocookie.com/embed/4jODU0Us8gk" title="Advanced Avatar video on YouTube" width="560" height="315" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+</div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=4jODU0Us8gk)
