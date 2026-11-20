@@ -1,0 +1,13 @@
+<article class="publication-card">
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+{% if post.authors %}<p class="publication-authors">{{ post.authors }}</p>{% endif %}
+<p class="publication-meta">{% if post.venue != '' %}<i>{{ post.venue }}</i> · {% endif %}{{ post.date | date: "%Y" }}{% if post.status %} · {{ post.status }}{% endif %}</p>
+{% if post.summary %}<p>{{ post.summary }}</p>{% endif %}
+<div class="publication-links" aria-label="Publication resources">
+<a class="resource-link" href="{{ post.url | relative_url }}">Details</a>
+{% if post.paperurl %}<a class="resource-link" href="{{ post.paperurl }}">{% if post.publication_type == 'patent' %}Patent{% elsif post.publication_type == 'thesis' %}Thesis{% else %}Paper{% endif %}</a>{% endif %}
+{% if post.pdfurl %}<a class="resource-link" href="{{ post.pdfurl }}">PDF</a>{% endif %}
+{% if post.videourl %}<a class="resource-link" href="{{ post.videourl | relative_url }}">Video</a>{% endif %}
+{% if post.codeurl %}<a class="resource-link" href="{{ post.codeurl }}">Code</a>{% endif %}
+</div>
+</article>

@@ -1,48 +1,29 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Computer vision research at SEED, Electronic Arts, with a background in 3D human modeling and motion analysis."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello! I’m Thibault Goyallon, I work as a Computer Vision Researcher at [SEED](https://www.ea.com/seed), Electronic Arts, where I focus on advancing innovative technologies in the gaming industry. I relocated here after spending 5 years at [INRIA Grenoble](https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes), where I developed high-performance algorithms and co-led projects in computer vision and deep learning.
+I'm Thibault Goyallon, a Computer Vision Researcher at [SEED](https://www.ea.com/seed), Electronic Arts, in Toronto. My work spans computer vision, deep learning, and 3D human modeling, including the generation of digital human assets.
 
-<p align="center">
-  <video width="700" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/mosaic_squat.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+Before joining Electronic Arts in 2024, I spent nearly five years at INRIA Grenoble and the Jean Kuntzmann Laboratory, working on markerless motion capture and video analysis for biomechanics and elite sports.
+
+## Background
+
+I received my Ph.D. in Mechatronics from Grenoble Alpes University in 2019. At the [SYMME Laboratory](https://www.univ-smb.fr/symme/en/), I worked with surgeons and industrial partners on the Clothilde Project, developing shoulder implants and instruments using metal additive manufacturing. This work resulted in five patents.
+
+I then joined the [Jean Kuntzmann Laboratory](https://www-ljk.imag.fr/?lang=en) as a postdoctoral researcher. From 2021 to 2024, I worked as a Research Engineer at INRIA on [PerfAnalytics](https://github.com/perfanalytics), developing video analysis methods for climbing, wrestling, boxing, gymnastics, and BMX racing.
+
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/mosaic_squat.jpg' | relative_url }}">
+    <source src="{{ '/images/mosaic_squat.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/mosaic_squat.mp4' | relative_url }}">Watch the motion capture demonstration</a>.
   </video>
-  <br>
-  <i>Segmented Human 3D Mesh Extraction from 2D keypoints with 6 cameras.</i>
-</p>
+  <figcaption>3D human mesh reconstruction from 2D keypoints recorded by six cameras.</figcaption>
+</figure>
 
-
-## My Background and History
-
-I received my Ph.D in Mecatronics from the Grenoble Alpes University in 2019, my master in Mechanics and System Design from the École Polytechnique at the University of Tours in 2015, and my Bachelor's in Mechanical and Industrial Automation in 2011. For nearly five years, I have been engaged in computer vision research and deep learning development at [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes), working under the supervision of Lionel Reveret.
-
-
-
-I received my Ph.D. at the [SYMME](https://www.univ-smb.fr/symme/en/) Mechatronics Laboratory, where I had the opportunity to work in the biomedical field and collaborated closely with surgeons and medical technology companies. Under the supervision of Pierre Vacher, Éric Vittecoq, and Christophe Déprés, I designed custom orthopedic implants using metal 3D printing technology as part of the Clothilde Project, resulting in multiple patents aimed at minimizing the impact of surgery on surrounding tissues : "Development of an innovative implant for the treatment of shoulder fractures (proximal humerus and middle diaphysis)."
-
-<p align="center">
-  <img src="/images/clothilde.jpg" alt="The Clothilde Project" width="500"/>
-  <br>
-  <i>The Clothilde Project.</i>
-</p>
-
-I pursued a postdoctoral position at the [Jean Kuntzmann](https://www-ljk.imag.fr/?lang=en) Applied Mathematics Laboratory in the Variational Calculus, Geometry, and Image Team. My research addressed the limitations of 2D vision deep learning methods for biomechanical applications. I developed expertise in processing large image/video datasets, utilizing advanced deep learning frameworks, and creating  ML/DL algorithms for automated image processing. My work included markerless motion capture from video and dynamic analysis for rock climbing.
-
-In 2021, I began a Research Engineer position at INRIA, focusing on video analysis for elite sports performance evaluation within the [PerfAnalytics Project](https://github.com/perfanalytics), funded by the Agence Nationale de la Recherche (ANR) under grant number ANR-20-STHP-0003. My role involves developing and applying advanced video analysis techniques to improve the accuracy and effectiveness of performance assessments for French federations in climbing, wrestling, boxing, gymnastics, and BMX racing.
-
-
-<p align="center">
-  <img src="/images/perfanalytics.jpg" alt="The PerfAnalytics Project" width="500"/>
-  <br>
-  <i>The PerfAnalytics Project.</i>
-</p>
-
-In addition to my expertise in computer vision and DL, I am passionate about open and reproducible science, film photography, and low-tech innovations. I am also an enthusiastic climber !
+Outside research, I enjoy climbing, film photography, and low-tech projects. I'm also interested in open and reproducible science.

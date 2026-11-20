@@ -5,10 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="portfolio-cards">
+  {% assign projects = site.portfolio | sort: 'order' %}
+  {% for project in projects %}
+  <article class="portfolio-card">
+    <a href="{{ project.url | relative_url }}"><img src="{{ project.cover | relative_url }}" alt="{{ project.cover_alt }}" loading="lazy" width="960" height="540"></a>
+    <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+    <p>{{ project.summary }}</p>
+    <a class="resource-link" href="{{ project.url | relative_url }}">Explore projects</a>
+  </article>
+  {% endfor %}
+</div>

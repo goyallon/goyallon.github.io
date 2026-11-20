@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thibault Goyallon"
 title_separator          : "-"
 name                     : &name "Thibault Goyallon"
-description              : &description "personal description"
+description              : &description "Computer vision, digital humans, and markerless motion capture. Research by Thibault Goyallon at SEED, Electronic Arts."
 url                      : https://goyallon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goyallon/goyallon.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Researcher in Computer Vision"
   location         : "Toronto, ON"  
-  employer         : Electronics Arts - SEED
+  employer         : Electronic Arts - SEED
   pubmed           : 
   googlescholar    : 
   email            : 

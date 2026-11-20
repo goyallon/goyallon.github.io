@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/files/CV_2024_Github.pdf)
+[Download CV (2024 PDF)]({{ "/files/CV_2024_Github.pdf" | relative_url }})
 
-## Professional Experiences
+## Professional Experience
 
 ### Computer Vision Researcher
 **Electronic Arts - SEED, Toronto, Canada**  
@@ -22,11 +22,11 @@ redirect_from:
 **INRIA, Grenoble, France**  
 *2021 - 2024*  
 **PerfAnalytics Project** (ANR-20-STHP-0003 - National Research Agency funding €2M)  
-Developments in Markerless Motion Capture for human motion, applications in high-level elite sports:
+Markerless motion capture and video analysis for elite sports:
 - Developed DL methods for accurate and automated multi-person shape estimation from multi-camera systems.
 - Ensured reproducibility of research code and high-performance computing (HPC).
-- Maintained SQL/Mongo Databases and front-end Apps.
-- Supervised master and PhD students.
+- Maintained SQL/Mongo Databases and web applications.
+- Supervised master’s and Ph.D. students.
 
 ### Postdoctoral Researcher in Applied Mathematics
 **LJK, CNRS (UMR 5224), Grenoble, France**  
@@ -60,7 +60,7 @@ Development of an assembly control system for pyrotechnic devices.
 *2014*  
 3D Finite Element Analysis modeling of the human foot - Numerical analyses of soft tissues.
 
-## Degrees
+## Education
 
 ### Research and Higher Education Label
 **Grenoble Alpes University, Doctoral School SISEO ED N°489**  
@@ -68,7 +68,11 @@ Development of an assembly control system for pyrotechnic devices.
 Grenoble, France  
 - Pedagogy, Didactics, and Communication.
 
-### Doctoral Studies
+### Ph.D. in Mechatronics
+**Grenoble Alpes University, SYMME Laboratory, Annecy, France**  
+*2019*
+
+### Doctoral Training
 **SISEO Doctoral School**  
 *2015 - 2018*  
 Annecy, France  
@@ -76,7 +80,7 @@ Annecy, France
 - Multi-spectral image analysis - LISTIC Lab.
 - Research ethics.
 
-### Master Degree
+### Master’s Degree
 **Mechanics and System Design**  
 **École Polytechnique Universitaire of Tours, France**  
 *2011 - 2015*
@@ -93,9 +97,9 @@ Annecy, France
 
 ## Skills
 
-- **Python:** OpenCV, SciPy, Scikit, Pandas, NumPy, Trimesh, PyRender, TensorFlow, PyTorch, TorchVision, Dash Plotly
-- **Data Integrity:** Git, Docker (including GPU support: NVIDIA, NVCC, CUDA)
-- **Programming:** Bash, Linux servers, gcc/g++ compilation, Matlab, Arduino, LaTeX
+- **Python:** OpenCV, SciPy, scikit-learn, Pandas, NumPy, Trimesh, pyrender, TensorFlow, PyTorch, TorchVision, Dash Plotly
+- **Research Software:** Git, Docker (including GPU support: NVIDIA, NVCC, CUDA)
+- **Programming:** Bash, Linux servers, gcc/g++ compilation, MATLAB, Arduino, LaTeX
 - **CAD and FEA:** SolidWorks, Catia, Abaqus, Ansys
 - **3D Mesh:** OpenGL, Maya, Blender, MeshLab
 - **Languages:** French (native), English (fluent)

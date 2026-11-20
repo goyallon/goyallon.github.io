@@ -1,59 +1,76 @@
 ---
-title: "Pose Estimation, Tracking and Mesh recovery from RGB cameras"
-excerpt: "Some examples of my latest work on Human Mesh Recovery"
+title: Human Motion & Sports
+excerpt: Markerless motion capture, 3D human reconstruction, and video analysis for sports.
 collection: portfolio
+summary: Multi-camera human reconstruction, boxing analysis, and climbing demonstrations.
+permalink: /portfolio/portfolio-1/
+cover: /images/video-posters/mosaic_squat.jpg
+cover_alt: Multi-camera 3D human motion reconstruction.
+order: 2
 ---
 
-<p align="center">
-  <video width="350" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/smplx.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <i> Walking Subject - SMPL-X Human 3D Mesh Extraction from 2D keypoints with 9 cameras + MoCap + Forces Plateform.</i>
-</p>
+Markerless motion capture and video analysis for biomechanics and sports, from multi-camera 3D reconstruction to monocular athlete tracking.
 
-<p align="center">
-  <video width="700" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/smplx_cmjs.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <i> Counter movement Jump squat Subject - SMPL-X Human 3D Mesh Extraction from 2D keypoints with 9 cameras + MoCap + Forces Plateform.</i>
-</p>
+## 3D human reconstruction
 
-<p align="center">
-  <video width="700" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/smpl.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/smplx.jpg' | relative_url }}">
+    <source src="{{ '/images/smplx.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/smplx.mp4' | relative_url }}">Watch the video</a>.
   </video>
-  <br>
-  <i> Shadow Boxing - SMPL from 2D keypoints with 12 cameras.</i>
-</p>
+  <figcaption>Walking: SMPL-X reconstruction from nine cameras, with motion capture and force plate measurements.</figcaption>
+</figure>
 
-<p align="center">
-  <video width="700" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/tracking.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/smplx_cmjs.jpg' | relative_url }}">
+    <source src="{{ '/images/smplx_cmjs.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/smplx_cmjs.mp4' | relative_url }}">Watch the video</a>.
   </video>
-  <br>
-  <i> Boxing Ring Generalship + Multiperson Tracking from Monocular RGB Video.</i>
-</p>
+  <figcaption>Countermovement jump: SMPL-X reconstruction from nine cameras, with motion capture and force plate measurements.</figcaption>
+</figure>
 
-<p align="center">
-  <video width="700" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/tracking2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/mosaic_squat.jpg' | relative_url }}">
+    <source src="{{ '/images/mosaic_squat.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/mosaic_squat.mp4' | relative_url }}">Watch the video</a>.
   </video>
-  <br>
-  <i> Human Multiperson Tracking on Boxing elite athletes with 12 cameras.</i>
-</p>
+  <figcaption>3D human mesh reconstruction from 2D keypoints recorded by six cameras.</figcaption>
+</figure>
 
-<p align="center">
-  <video width="350" autoplay controls>
-    <source src="https://raw.githubusercontent.com/goyallon/goyallon.github.io/master/images/yolo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+
+<h2 id="boxing">Boxing analysis</h2>
+
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/smpl.jpg' | relative_url }}">
+    <source src="{{ '/images/smpl.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/smpl.mp4' | relative_url }}">Watch the video</a>.
   </video>
-  <br>
-  <i> Hold detection for speed climbing with YoLo.</i>
-</p>
+  <figcaption>Shadow boxing: SMPL reconstruction from 2D keypoints recorded by twelve cameras.</figcaption>
+</figure>
+
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/tracking.jpg' | relative_url }}">
+    <source src="{{ '/images/tracking.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/tracking.mp4' | relative_url }}">Watch the video</a>.
+  </video>
+  <figcaption>Boxing ring generalship and multi-person tracking from monocular RGB video.</figcaption>
+</figure>
+
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/tracking2.jpg' | relative_url }}">
+    <source src="{{ '/images/tracking2.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/tracking2.mp4' | relative_url }}">Watch the video</a>.
+  </video>
+  <figcaption>Multi-person tracking of elite boxers using twelve cameras.</figcaption>
+</figure>
+
+
+## Climbing
+
+<figure class="media-figure">
+  <video controls playsinline preload="none" poster="{{ '/images/video-posters/yolo.jpg' | relative_url }}">
+    <source src="{{ '/images/yolo.mp4' | relative_url }}" type="video/mp4">
+    <a href="{{ '/images/yolo.mp4' | relative_url }}">Watch the video</a>.
+  </video>
+  <figcaption>Climbing hold detection with YOLO.</figcaption>
+</figure>

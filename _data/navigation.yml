@@ -12,9 +12,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Supervisions"
+  - title: "Supervision"
     url: /supervisions/
   
   - title: "Portfolio"
     url: /portfolio/
-    
